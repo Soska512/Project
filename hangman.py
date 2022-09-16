@@ -1,5 +1,5 @@
 import random
-words = ["python", "java", "swift", "javascript"]
+words = ["python", "java", "swift", "javascript", "nigger"]
 wins = 0
 loses = 0
 
